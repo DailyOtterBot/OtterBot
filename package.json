@@ -1,0 +1,16 @@
+{
+  "name": "otterbot",
+  "version": "1.0.0",
+  "description": "A Bot that posts otter pictures to twitter.com",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Kwii Hours",
+  "license": "ISC",
+  "dependencies": {
+    "days-since-birth": "^1.0.1",
+    "twit": "^2.2.11"
+  }
+}
