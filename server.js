@@ -64,7 +64,7 @@ const fs = require( 'fs' ),
                               /* And finally, post a tweet with the image. */
 
                               T.post( 'statuses/update', {
-                                  status: 'Otter' + days,
+                                  status: 'Otter ' + days,
                                   media_ids: [image.media_id_string]
                               },
                               function( err, data, response){
