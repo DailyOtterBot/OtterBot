@@ -26,7 +26,7 @@ function tweetRandomImage(){
         images.push( f );
       } );
 
-    // Pick a random image.
+    // Pick an image.
     console.log( 'Opening an otter' );
 
     const imagePath = path.join( __dirname, '/images/otter (' + days + ').jpg' ),
