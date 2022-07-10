@@ -8,4 +8,4 @@ Otterbot utilises the NPM module [Twit](https://www.npmjs.com/package/twit) to i
 
 #
 
-Check it out at https://twitter.com/OttersEveryDay
+<p align="center"><a rel="noreferrer noopener" href="https://twitter.com/OttersEveryDay"><img alt="Add To Discord" width="200px" src="https://i.imgur.com/4ULMWKv.png"></a><br /><br /><br />
