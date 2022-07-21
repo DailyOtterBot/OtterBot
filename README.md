@@ -1,4 +1,4 @@
-# [![N|Solid](https://i.imgur.com/ZwK8yWn.png)](https://twitter.com/OttersEveryDay)
+# [![N|Solid](https://i.imgur.com/dTvT9i8.png)](https://twitter.com/OttersEveryDay)
 
 ### A Twitter bot that posts daily otter pictures. <br />
 
